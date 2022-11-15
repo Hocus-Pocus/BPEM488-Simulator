@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name EP100-Breakout-57-to-82-Rev1-rescue)(type Legacy)(uri "${KIPRJMOD}/EP100 Breakout 57 to 82 Rev1-rescue.lib")(options "")(descr ""))
+)
