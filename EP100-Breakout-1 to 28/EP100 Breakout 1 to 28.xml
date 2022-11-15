@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\angel\Dropbox\My PC (Backup-PC)\Documents\KiCad Projects\EP100 Breakout 1 to 28\EP100 Breakout 1 to 28.sch</source>
+    <date>2022-08-07 11:47:26 AM</date>
+    <tool>Eeschema (5.1.6)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>23 dec 2014</date>
+        <source>EP100 Breakout 1 to 28.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="P5">
+      <value>CONN_14X2</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="CONN_14X2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54065F10</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>39k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54065F35</tstamp>
+    </comp>
+    <comp ref="RV2">
+      <value>10k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="POT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54065FE0</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>30uF poly</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54069805</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>AD654</value>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="AD654" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54069C11</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF cer</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54069D1B</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54069EEA</tstamp>
+    </comp>
+    <comp ref="Q10">
+      <value>ZTX553</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX553" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5406A263</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5406A2B4</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5406A54B</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54072F9D</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54073072</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54073078</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079B90</tstamp>
+    </comp>
+    <comp ref="R75">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079B96</tstamp>
+    </comp>
+    <comp ref="R76">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079B9C</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>MAX9926</value>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="MAX9926" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079BB4</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>0.01uF</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079BBA</tstamp>
+    </comp>
+    <comp ref="R65">
+      <value>10k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079BC0</tstamp>
+    </comp>
+    <comp ref="R66">
+      <value>10k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079BD5</tstamp>
+    </comp>
+    <comp ref="R51">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079BDB</tstamp>
+    </comp>
+    <comp ref="R52">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079BE1</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>0.1uF</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079BF3</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>1uF</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079BF9</tstamp>
+    </comp>
+    <comp ref="R83">
+      <value>10k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079C0B</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>1nF</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079C11</tstamp>
+    </comp>
+    <comp ref="R82">
+      <value>10k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079C17</tstamp>
+    </comp>
+    <comp ref="R78">
+      <value>5.1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079C1D</tstamp>
+    </comp>
+    <comp ref="R84">
+      <value>10k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079C2F</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>1nF</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079C35</tstamp>
+    </comp>
+    <comp ref="R85">
+      <value>10k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079C3B</tstamp>
+    </comp>
+    <comp ref="R79">
+      <value>5.1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079C41</tstamp>
+    </comp>
+    <comp ref="P9">
+      <value>CONN_2</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="CONN_2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079C4F</tstamp>
+    </comp>
+    <comp ref="P10">
+      <value>CONN_2</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="CONN_2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54079C55</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407B1E9</tstamp>
+    </comp>
+    <comp ref="R55">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407B1EF</tstamp>
+    </comp>
+    <comp ref="R57">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407B1F5</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407B844</tstamp>
+    </comp>
+    <comp ref="R70">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407B84A</tstamp>
+    </comp>
+    <comp ref="R73">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407B850</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407B86E</tstamp>
+    </comp>
+    <comp ref="R91">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407B874</tstamp>
+    </comp>
+    <comp ref="R94">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407B87A</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407BAA3</tstamp>
+    </comp>
+    <comp ref="R69">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407BAA9</tstamp>
+    </comp>
+    <comp ref="R71">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407BAAF</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407BACD</tstamp>
+    </comp>
+    <comp ref="R90">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407BAD3</tstamp>
+    </comp>
+    <comp ref="R92">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407BAD9</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>540883BB</tstamp>
+    </comp>
+    <comp ref="R61">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>540883C1</tstamp>
+    </comp>
+    <comp ref="R62">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>540883E5</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>540883F5</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408A3E3</tstamp>
+    </comp>
+    <comp ref="R56">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408A3E9</tstamp>
+    </comp>
+    <comp ref="R59">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408A3EF</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>CONN_2</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="CONN_2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5407AC45</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>Grn</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408BAC4</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>39k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408BEB0</tstamp>
+    </comp>
+    <comp ref="RV1">
+      <value>10k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="POT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408BEC2</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>30uF poly</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408BEC8</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>AD654</value>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="AD654" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408BECE</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.1uF cer</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408BED4</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408BEEC</tstamp>
+    </comp>
+    <comp ref="Q9">
+      <value>ZTX553</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX553" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408BEF8</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408BEFE</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408BF10</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>Grn</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408BF31</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54090082</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54090088</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5409008E</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5409012A</tstamp>
+    </comp>
+    <comp ref="R43">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54090130</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54090136</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54090154</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5409015A</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54090160</tstamp>
+    </comp>
+    <comp ref="K1">
+      <value>CONN_3</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="CONN_3" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54091875</tstamp>
+    </comp>
+    <comp ref="R48">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5409189B</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>Yel</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>540918B0</tstamp>
+    </comp>
+    <comp ref="R47">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>540918D0</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>Grn</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>540918D6</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FE83</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FE89</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FE8F</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FEA7</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FEAD</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FEB3</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FECB</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FED1</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FED7</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FEEF</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FEF5</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5408FEFB</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54091CFA</tstamp>
+    </comp>
+    <comp ref="R44">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>540923B6</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54093301</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5409331B</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>Off/On</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="SPST" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>540E3EE7</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>Off/On</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="SPST" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>540E3F5A</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54162FA9</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54162FAF</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5416370B</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54163734</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5416373A</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54163740</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54163746</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5416374C</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54163752</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54163758</tstamp>
+    </comp>
+    <comp ref="R60">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5416375E</tstamp>
+    </comp>
+    <comp ref="R77">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54163764</tstamp>
+    </comp>
+    <comp ref="R58">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5416376A</tstamp>
+    </comp>
+    <comp ref="R74">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54163770</tstamp>
+    </comp>
+    <comp ref="R72">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54163776</tstamp>
+    </comp>
+    <comp ref="R95">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5416377C</tstamp>
+    </comp>
+    <comp ref="R93">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54163782</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>CONN_4</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="CONN_4" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54167DBD</tstamp>
+    </comp>
+    <comp ref="R45">
+      <value>2.2k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54167DCA</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>22uF</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54167DD0</tstamp>
+    </comp>
+    <comp ref="P4">
+      <value>CONN_4</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="CONN_4" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54168983</tstamp>
+    </comp>
+    <comp ref="R46">
+      <value>2.2k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54168989</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>22uF</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5416898F</tstamp>
+    </comp>
+    <comp ref="P7">
+      <value>CONN_4</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="CONN_4" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5416935C</tstamp>
+    </comp>
+    <comp ref="R49">
+      <value>2.2k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54169362</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>22uF</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54169368</tstamp>
+    </comp>
+    <comp ref="P8">
+      <value>CONN_4</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="CONN_4" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5416937D</tstamp>
+    </comp>
+    <comp ref="R50">
+      <value>2.2k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54169383</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>22uF</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="C" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54169389</tstamp>
+    </comp>
+    <comp ref="Q18">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC124</tstamp>
+    </comp>
+    <comp ref="Q19">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC163</tstamp>
+    </comp>
+    <comp ref="Q15">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC169</tstamp>
+    </comp>
+    <comp ref="Q16">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC16F</tstamp>
+    </comp>
+    <comp ref="Q13">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC175</tstamp>
+    </comp>
+    <comp ref="Q17">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC17B</tstamp>
+    </comp>
+    <comp ref="Q14">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC181</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC187</tstamp>
+    </comp>
+    <comp ref="Q11">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC1A6</tstamp>
+    </comp>
+    <comp ref="Q12">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC1AC</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC1B2</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC1B8</tstamp>
+    </comp>
+    <comp ref="Q5">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC1C8</tstamp>
+    </comp>
+    <comp ref="Q6">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC1CE</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>542EC1D4</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>4N25</value>
+      <footprint>DIP6</footprint>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="4N25" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487DC6E</tstamp>
+    </comp>
+    <comp ref="R63">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487DC7A</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>Grn</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487DC8C</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487DC92</tstamp>
+    </comp>
+    <comp ref="R53">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487DC9E</tstamp>
+    </comp>
+    <comp ref="R67">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487DCA4</tstamp>
+    </comp>
+    <comp ref="Q20">
+      <value>ZTX450</value>
+      <footprint>TO126</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487DCAE</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>4N25</value>
+      <footprint>DIP6</footprint>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="4N25" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F0C3</tstamp>
+    </comp>
+    <comp ref="R64">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F0C9</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>Grn</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F0D5</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F0DB</tstamp>
+    </comp>
+    <comp ref="R54">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F0E7</tstamp>
+    </comp>
+    <comp ref="R68">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F0ED</tstamp>
+    </comp>
+    <comp ref="Q21">
+      <value>ZTX450</value>
+      <footprint>TO126</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F0F6</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F528</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F52E</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F534</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F546</tstamp>
+    </comp>
+    <comp ref="Q7">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F552</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>Red</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F561</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>2.4k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F567</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F56D</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>100k</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="R" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F57F</tstamp>
+    </comp>
+    <comp ref="Q8">
+      <value>ZTX450</value>
+      <footprint>TO92</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="ZTX450" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5487F58B</tstamp>
+    </comp>
+    <comp ref="K2">
+      <value>CONN_3</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="CONN_3" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5498C043</tstamp>
+    </comp>
+    <comp ref="K3">
+      <value>CONN_3</value>
+      <footprint>~</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="EP100-Breakout-1-to-28-rescue" part="CONN_3" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5498C050</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="4N25">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">4N25</field>
+        <field name="Footprint">DIP6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="NotConnected"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+        <pin num="6" name="~" type="NotConnected"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="AD654">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AD654</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Fout" type="output"/>
+        <pin num="2" name="Logic_Com" type="input"/>
+        <pin num="3" name="Rt" type="input"/>
+        <pin num="4" name="+Vin" type="input"/>
+        <pin num="5" name="-Vs" type="input"/>
+        <pin num="6" name="Ct" type="input"/>
+        <pin num="7" name="Ct" type="input"/>
+        <pin num="8" name="+Vs" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="C">
+      <footprints>
+        <fp>SM*</fp>
+        <fp>C?</fp>
+        <fp>C1-1</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="CONN_14X2">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_14X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+        <pin num="15" name="P15" type="passive"/>
+        <pin num="16" name="P16" type="passive"/>
+        <pin num="17" name="P17" type="passive"/>
+        <pin num="18" name="P18" type="passive"/>
+        <pin num="19" name="P19" type="passive"/>
+        <pin num="20" name="P20" type="passive"/>
+        <pin num="21" name="P21" type="passive"/>
+        <pin num="22" name="P22" type="passive"/>
+        <pin num="23" name="P23" type="passive"/>
+        <pin num="24" name="P20" type="passive"/>
+        <pin num="25" name="P25" type="passive"/>
+        <pin num="26" name="P26" type="passive"/>
+        <pin num="27" name="P27" type="passive"/>
+        <pin num="28" name="P28" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="CONN_2">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="CONN_3">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">CONN_3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="CONN_4">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="LED">
+      <footprints>
+        <fp>LED-3MM</fp>
+        <fp>LED-5MM</fp>
+        <fp>LED-10MM</fp>
+        <fp>LED-0603</fp>
+        <fp>LED-0805</fp>
+        <fp>LED-1206</fp>
+        <fp>LEDV</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="MAX9926">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX9926</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN_THRSH1" type="input"/>
+        <pin num="2" name="EXT1" type="input"/>
+        <pin num="3" name="BIAS1" type="input"/>
+        <pin num="4" name="COUT1" type="input"/>
+        <pin num="5" name="COUT2" type="input"/>
+        <pin num="6" name="BIAS2" type="input"/>
+        <pin num="7" name="EXT2" type="input"/>
+        <pin num="8" name="INT_THRSH2" type="input"/>
+        <pin num="9" name="IN2+" type="input"/>
+        <pin num="10" name="IN2-" type="input"/>
+        <pin num="11" name="GND" type="input"/>
+        <pin num="12" name="DIRN" type="input"/>
+        <pin num="13" name="ZERO_EN" type="input"/>
+        <pin num="14" name="VCC" type="input"/>
+        <pin num="15" name="IN1-" type="input"/>
+        <pin num="16" name="IN1+" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="POT">
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="R">
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R?-*</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="SPST">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SPST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="ZTX450">
+      <footprints>
+        <fp>TO92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">ZTX450</field>
+        <field name="Footprint">TO92</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="EP100-Breakout-1-to-28-rescue" part="ZTX553">
+      <footprints>
+        <fp>TO92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">ZTX553</field>
+        <field name="Footprint">TO92</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="EP100-Breakout-1-to-28-rescue">
+      <uri>C:\Users\angel\Dropbox\My PC (Backup-PC)\Documents\KiCad Projects\EP100 Breakout 1 to 28/EP100 Breakout 1 to 28-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(P10-Pad2)">
+      <node ref="R85" pin="1"/>
+      <node ref="P10" pin="2"/>
+    </net>
+    <net code="2" name="Net-(C14-Pad2)">
+      <node ref="R79" pin="1"/>
+      <node ref="U3" pin="9"/>
+      <node ref="R85" pin="2"/>
+      <node ref="C14" pin="2"/>
+    </net>
+    <net code="3" name="Net-(P10-Pad1)">
+      <node ref="R84" pin="1"/>
+      <node ref="P10" pin="1"/>
+    </net>
+    <net code="4" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1"/>
+      <node ref="R84" pin="2"/>
+      <node ref="R79" pin="2"/>
+      <node ref="U3" pin="10"/>
+    </net>
+    <net code="5" name="Net-(P9-Pad2)">
+      <node ref="R83" pin="1"/>
+      <node ref="P9" pin="2"/>
+    </net>
+    <net code="6" name="Net-(P9-Pad1)">
+      <node ref="R82" pin="1"/>
+      <node ref="P9" pin="1"/>
+    </net>
+    <net code="7" name="Net-(C13-Pad2)">
+      <node ref="R83" pin="2"/>
+      <node ref="R78" pin="1"/>
+      <node ref="U3" pin="15"/>
+      <node ref="C13" pin="2"/>
+    </net>
+    <net code="8" name="Net-(D4-Pad2)">
+      <node ref="Q4" pin="2"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="9" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1"/>
+      <node ref="R20" pin="2"/>
+    </net>
+    <net code="10" name="Net-(Q12-Pad3)">
+      <node ref="R35" pin="2"/>
+      <node ref="Q12" pin="3"/>
+      <node ref="R36" pin="2"/>
+    </net>
+    <net code="11" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="Q12" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D10-Pad1)">
+      <node ref="R43" pin="2"/>
+      <node ref="D10" pin="1"/>
+    </net>
+    <net code="13" name="Net-(Q3-Pad3)">
+      <node ref="R15" pin="2"/>
+      <node ref="Q3" pin="3"/>
+      <node ref="R16" pin="2"/>
+    </net>
+    <net code="14" name="Net-(D3-Pad2)">
+      <node ref="Q3" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="15" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1"/>
+      <node ref="R19" pin="2"/>
+    </net>
+    <net code="16" name="Net-(D20-Pad2)">
+      <node ref="Q14" pin="2"/>
+      <node ref="D20" pin="2"/>
+    </net>
+    <net code="17" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1"/>
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="18" name="Net-(Q14-Pad3)">
+      <node ref="R60" pin="1"/>
+      <node ref="Q14" pin="3"/>
+      <node ref="R59" pin="2"/>
+    </net>
+    <net code="19" name="Net-(D20-Pad1)">
+      <node ref="R56" pin="2"/>
+      <node ref="D20" pin="1"/>
+    </net>
+    <net code="20" name="Net-(C13-Pad1)">
+      <node ref="U3" pin="16"/>
+      <node ref="R78" pin="2"/>
+      <node ref="R82" pin="2"/>
+      <node ref="C13" pin="1"/>
+    </net>
+    <net code="21" name="Net-(R21-Pad2)">
+      <node ref="R22" pin="2"/>
+      <node ref="R21" pin="2"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="22" name="Net-(R25-Pad2)">
+      <node ref="U1" pin="3"/>
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="23" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1"/>
+      <node ref="RV1" pin="3"/>
+    </net>
+    <net code="24" name="VDD">
+      <node ref="R11" pin="2"/>
+      <node ref="K1" pin="2"/>
+      <node ref="R66" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="R65" pin="2"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="Q10" pin="1"/>
+      <node ref="R23" pin="1"/>
+      <node ref="P5" pin="27"/>
+      <node ref="R12" pin="2"/>
+      <node ref="Q21" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="U2" pin="8"/>
+      <node ref="D15" pin="1"/>
+      <node ref="U1" pin="8"/>
+      <node ref="C1" pin="1"/>
+      <node ref="Q20" pin="2"/>
+      <node ref="Q9" pin="1"/>
+      <node ref="R21" pin="1"/>
+      <node ref="IC2" pin="5"/>
+      <node ref="R47" pin="1"/>
+    </net>
+    <net code="25" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="26" name="Net-(Q10-Pad3)">
+      <node ref="R24" pin="1"/>
+      <node ref="Q10" pin="3"/>
+    </net>
+    <net code="27" name="Net-(Q2-Pad3)">
+      <node ref="R5" pin="2"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="28" name="Net-(D2-Pad2)">
+      <node ref="Q2" pin="2"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="29" name="Net-(D2-Pad1)">
+      <node ref="R8" pin="2"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="30" name="Net-(Q6-Pad3)">
+      <node ref="Q6" pin="3"/>
+      <node ref="R29" pin="2"/>
+      <node ref="R30" pin="2"/>
+    </net>
+    <net code="31" name="Net-(D6-Pad2)">
+      <node ref="Q6" pin="2"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="32" name="Net-(D6-Pad1)">
+      <node ref="R32" pin="2"/>
+      <node ref="D6" pin="1"/>
+    </net>
+    <net code="33" name="Net-(Q1-Pad3)">
+      <node ref="R4" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="34" name="Net-(Q9-Pad3)">
+      <node ref="Q9" pin="3"/>
+      <node ref="R22" pin="1"/>
+    </net>
+    <net code="35" name="Net-(Q9-Pad2)">
+      <node ref="SW1" pin="2"/>
+      <node ref="Q9" pin="2"/>
+    </net>
+    <net code="36" name="Net-(D11-Pad2)">
+      <node ref="R39" pin="1"/>
+      <node ref="D11" pin="2"/>
+    </net>
+    <net code="37" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="Q1" pin="2"/>
+    </net>
+    <net code="38" name="Net-(D12-Pad2)">
+      <node ref="R41" pin="1"/>
+      <node ref="D12" pin="2"/>
+    </net>
+    <net code="39" name="Net-(D14-Pad1)">
+      <node ref="R48" pin="2"/>
+      <node ref="D14" pin="1"/>
+    </net>
+    <net code="40" name="Net-(D13-Pad1)">
+      <node ref="R47" pin="2"/>
+      <node ref="D13" pin="1"/>
+    </net>
+    <net code="41" name="Net-(Q4-Pad3)">
+      <node ref="R17" pin="2"/>
+      <node ref="R18" pin="2"/>
+      <node ref="Q4" pin="3"/>
+    </net>
+    <net code="42" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="43" name="Net-(Q5-Pad3)">
+      <node ref="Q5" pin="3"/>
+      <node ref="R27" pin="2"/>
+      <node ref="R28" pin="2"/>
+    </net>
+    <net code="44" name="Net-(D5-Pad2)">
+      <node ref="Q5" pin="2"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="45" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1"/>
+      <node ref="R31" pin="2"/>
+    </net>
+    <net code="46" name="Net-(D15-Pad2)">
+      <node ref="R61" pin="2"/>
+      <node ref="D15" pin="2"/>
+    </net>
+    <net code="47" name="Net-(Q11-Pad3)">
+      <node ref="R34" pin="2"/>
+      <node ref="R33" pin="2"/>
+      <node ref="Q11" pin="3"/>
+    </net>
+    <net code="48" name="Net-(D9-Pad2)">
+      <node ref="Q11" pin="2"/>
+      <node ref="D9" pin="2"/>
+    </net>
+    <net code="49" name="Net-(D9-Pad1)">
+      <node ref="R42" pin="2"/>
+      <node ref="D9" pin="1"/>
+    </net>
+    <net code="50" name="Net-(R23-Pad2)">
+      <node ref="U2" pin="1"/>
+      <node ref="R24" pin="2"/>
+      <node ref="R23" pin="2"/>
+    </net>
+    <net code="51" name="Net-(R26-Pad2)">
+      <node ref="U2" pin="3"/>
+      <node ref="R26" pin="2"/>
+    </net>
+    <net code="52" name="Net-(D23-Pad2)">
+      <node ref="Q17" pin="2"/>
+      <node ref="D23" pin="2"/>
+    </net>
+    <net code="53" name="Net-(D23-Pad1)">
+      <node ref="D23" pin="1"/>
+      <node ref="R75" pin="2"/>
+    </net>
+    <net code="54" name="+12V">
+      <node ref="R43" pin="1"/>
+      <node ref="R20" pin="1"/>
+      <node ref="K3" pin="3"/>
+      <node ref="R69" pin="1"/>
+      <node ref="R56" pin="1"/>
+      <node ref="R55" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="R19" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="R14" pin="1"/>
+      <node ref="R63" pin="2"/>
+      <node ref="R91" pin="1"/>
+      <node ref="R75" pin="1"/>
+      <node ref="R42" pin="1"/>
+      <node ref="R31" pin="1"/>
+      <node ref="R64" pin="2"/>
+      <node ref="R48" pin="1"/>
+      <node ref="R32" pin="1"/>
+      <node ref="R13" pin="1"/>
+      <node ref="R90" pin="1"/>
+      <node ref="K2" pin="3"/>
+      <node ref="K1" pin="1"/>
+      <node ref="R70" pin="1"/>
+    </net>
+    <net code="55" name="Net-(D8-Pad1)">
+      <node ref="R14" pin="2"/>
+      <node ref="D8" pin="1"/>
+    </net>
+    <net code="56" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="Q7" pin="2"/>
+    </net>
+    <net code="57" name="Net-(Q7-Pad3)">
+      <node ref="R2" pin="2"/>
+      <node ref="Q7" pin="3"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="58" name="Net-(C4-Pad2)">
+      <node ref="U2" pin="6"/>
+      <node ref="C4" pin="2"/>
+    </net>
+    <net code="59" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1"/>
+      <node ref="RV2" pin="3"/>
+    </net>
+    <net code="60" name="Net-(Q17-Pad3)">
+      <node ref="R76" pin="2"/>
+      <node ref="R77" pin="1"/>
+      <node ref="Q17" pin="3"/>
+    </net>
+    <net code="61" name="Net-(C4-Pad1)">
+      <node ref="U2" pin="7"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="62" name="Net-(Q8-Pad3)">
+      <node ref="R9" pin="2"/>
+      <node ref="Q8" pin="3"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="63" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2"/>
+      <node ref="Q8" pin="2"/>
+    </net>
+    <net code="64" name="GND">
+      <node ref="C19" pin="2"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C10" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="C17" pin="2"/>
+      <node ref="P5" pin="28"/>
+      <node ref="Q6" pin="1"/>
+      <node ref="Q5" pin="1"/>
+      <node ref="RV2" pin="1"/>
+      <node ref="R67" pin="1"/>
+      <node ref="R53" pin="2"/>
+      <node ref="R41" pin="2"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U2" pin="5"/>
+      <node ref="C3" pin="2"/>
+      <node ref="Q2" pin="1"/>
+      <node ref="U3" pin="1"/>
+      <node ref="R54" pin="2"/>
+      <node ref="U3" pin="11"/>
+      <node ref="U3" pin="13"/>
+      <node ref="R68" pin="1"/>
+      <node ref="U3" pin="3"/>
+      <node ref="U3" pin="6"/>
+      <node ref="U3" pin="8"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="Q4" pin="1"/>
+      <node ref="Q12" pin="1"/>
+      <node ref="R39" pin="2"/>
+      <node ref="U1" pin="2"/>
+      <node ref="Q11" pin="1"/>
+      <node ref="U1" pin="5"/>
+      <node ref="C12" pin="1"/>
+      <node ref="R25" pin="1"/>
+      <node ref="Q3" pin="1"/>
+      <node ref="C1" pin="2"/>
+      <node ref="Q14" pin="1"/>
+      <node ref="Q13" pin="1"/>
+      <node ref="R26" pin="1"/>
+      <node ref="Q15" pin="1"/>
+      <node ref="Q17" pin="1"/>
+      <node ref="RV1" pin="1"/>
+      <node ref="Q16" pin="1"/>
+      <node ref="Q19" pin="1"/>
+      <node ref="Q18" pin="1"/>
+      <node ref="Q7" pin="1"/>
+      <node ref="D13" pin="2"/>
+      <node ref="D14" pin="2"/>
+      <node ref="R2" pin="1"/>
+      <node ref="Q8" pin="1"/>
+      <node ref="K1" pin="3"/>
+      <node ref="R10" pin="1"/>
+      <node ref="K3" pin="1"/>
+      <node ref="R93" pin="2"/>
+      <node ref="R95" pin="2"/>
+      <node ref="R72" pin="2"/>
+      <node ref="R74" pin="2"/>
+      <node ref="K2" pin="1"/>
+      <node ref="C7" pin="2"/>
+      <node ref="R58" pin="2"/>
+      <node ref="R77" pin="2"/>
+      <node ref="R60" pin="2"/>
+      <node ref="R36" pin="1"/>
+      <node ref="R30" pin="1"/>
+      <node ref="R18" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R34" pin="1"/>
+      <node ref="R16" pin="1"/>
+      <node ref="C8" pin="2"/>
+      <node ref="R40" pin="2"/>
+      <node ref="R4" pin="1"/>
+      <node ref="R28" pin="1"/>
+      <node ref="R44" pin="2"/>
+    </net>
+    <net code="65" name="Net-(D22-Pad2)">
+      <node ref="Q16" pin="2"/>
+      <node ref="D22" pin="2"/>
+    </net>
+    <net code="66" name="Net-(Q19-Pad3)">
+      <node ref="R95" pin="1"/>
+      <node ref="R94" pin="2"/>
+      <node ref="Q19" pin="3"/>
+    </net>
+    <net code="67" name="Net-(D25-Pad2)">
+      <node ref="Q19" pin="2"/>
+      <node ref="D25" pin="2"/>
+    </net>
+    <net code="68" name="Net-(D25-Pad1)">
+      <node ref="R91" pin="2"/>
+      <node ref="D25" pin="1"/>
+    </net>
+    <net code="69" name="Net-(Q16-Pad3)">
+      <node ref="Q16" pin="3"/>
+      <node ref="R73" pin="2"/>
+      <node ref="R74" pin="1"/>
+    </net>
+    <net code="70" name="Net-(D21-Pad1)">
+      <node ref="R69" pin="2"/>
+      <node ref="D21" pin="1"/>
+    </net>
+    <net code="71" name="Net-(D22-Pad1)">
+      <node ref="D22" pin="1"/>
+      <node ref="R70" pin="2"/>
+    </net>
+    <net code="72" name="Net-(Q13-Pad3)">
+      <node ref="R57" pin="2"/>
+      <node ref="R58" pin="1"/>
+      <node ref="Q13" pin="3"/>
+    </net>
+    <net code="73" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="Q13" pin="2"/>
+    </net>
+    <net code="74" name="Net-(D19-Pad1)">
+      <node ref="D19" pin="1"/>
+      <node ref="R55" pin="2"/>
+    </net>
+    <net code="75" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2"/>
+      <node ref="R62" pin="1"/>
+    </net>
+    <net code="76" name="Net-(D24-Pad1)">
+      <node ref="R90" pin="2"/>
+      <node ref="D24" pin="1"/>
+    </net>
+    <net code="77" name="Net-(Q15-Pad3)">
+      <node ref="R72" pin="1"/>
+      <node ref="Q15" pin="3"/>
+      <node ref="R71" pin="2"/>
+    </net>
+    <net code="78" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2"/>
+      <node ref="Q15" pin="2"/>
+    </net>
+    <net code="79" name="Net-(R52-Pad1)">
+      <node ref="R66" pin="2"/>
+      <node ref="R52" pin="1"/>
+      <node ref="R62" pin="2"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="80" name="Net-(R51-Pad1)">
+      <node ref="U3" pin="4"/>
+      <node ref="R51" pin="1"/>
+      <node ref="R65" pin="1"/>
+      <node ref="R61" pin="1"/>
+    </net>
+    <net code="81" name="Net-(C17-Pad1)">
+      <node ref="C21" pin="1"/>
+      <node ref="U3" pin="14"/>
+      <node ref="C19" pin="1"/>
+      <node ref="C17" pin="1"/>
+    </net>
+    <net code="82" name="/PT2">
+      <node ref="R9" pin="1"/>
+      <node ref="P5" pin="11"/>
+    </net>
+    <net code="83" name="Net-(IC1-Pad2)">
+      <node ref="K2" pin="2"/>
+      <node ref="IC1" pin="2"/>
+    </net>
+    <net code="84" name="Net-(Q10-Pad2)">
+      <node ref="SW2" pin="2"/>
+      <node ref="Q10" pin="2"/>
+    </net>
+    <net code="85" name="Net-(IC2-Pad4)">
+      <node ref="R38" pin="1"/>
+      <node ref="IC2" pin="4"/>
+      <node ref="Q21" pin="3"/>
+    </net>
+    <net code="86" name="Net-(IC2-Pad1)">
+      <node ref="IC2" pin="1"/>
+      <node ref="R64" pin="1"/>
+    </net>
+    <net code="87" name="Net-(D18-Pad2)">
+      <node ref="R68" pin="2"/>
+      <node ref="D18" pin="2"/>
+    </net>
+    <net code="88" name="Net-(IC2-Pad2)">
+      <node ref="K3" pin="2"/>
+      <node ref="IC2" pin="2"/>
+    </net>
+    <net code="89" name="Net-(D7-Pad1)">
+      <node ref="R13" pin="2"/>
+      <node ref="D7" pin="1"/>
+    </net>
+    <net code="90" name="Net-(IC1-Pad4)">
+      <node ref="IC1" pin="4"/>
+      <node ref="R37" pin="1"/>
+      <node ref="Q20" pin="3"/>
+    </net>
+    <net code="91" name="Net-(C12-Pad2)">
+      <node ref="P8" pin="4"/>
+      <node ref="C12" pin="2"/>
+      <node ref="R50" pin="2"/>
+    </net>
+    <net code="92" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2"/>
+      <node ref="R46" pin="2"/>
+      <node ref="P4" pin="4"/>
+    </net>
+    <net code="93" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2"/>
+      <node ref="R45" pin="2"/>
+      <node ref="P3" pin="4"/>
+    </net>
+    <net code="94" name="Net-(P3-Pad1)">
+      <node ref="P3" pin="1"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="95" name="Net-(P3-Pad3)">
+      <node ref="R45" pin="1"/>
+      <node ref="P3" pin="3"/>
+    </net>
+    <net code="96" name="Net-(P4-Pad1)">
+      <node ref="R27" pin="1"/>
+      <node ref="P4" pin="1"/>
+    </net>
+    <net code="97" name="Net-(P4-Pad3)">
+      <node ref="P4" pin="3"/>
+      <node ref="R46" pin="1"/>
+    </net>
+    <net code="98" name="Net-(D24-Pad2)">
+      <node ref="Q18" pin="2"/>
+      <node ref="D24" pin="2"/>
+    </net>
+    <net code="99" name="Net-(Q18-Pad3)">
+      <node ref="R93" pin="1"/>
+      <node ref="R92" pin="2"/>
+      <node ref="Q18" pin="3"/>
+    </net>
+    <net code="100" name="Net-(C8-Pad1)">
+      <node ref="U2" pin="4"/>
+      <node ref="C8" pin="1"/>
+      <node ref="RV2" pin="2"/>
+    </net>
+    <net code="101" name="Net-(IC1-Pad1)">
+      <node ref="IC1" pin="1"/>
+      <node ref="R63" pin="1"/>
+    </net>
+    <net code="102" name="Net-(D17-Pad2)">
+      <node ref="R67" pin="2"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="103" name="Net-(P8-Pad3)">
+      <node ref="R50" pin="1"/>
+      <node ref="P8" pin="3"/>
+    </net>
+    <net code="104" name="Net-(P7-Pad3)">
+      <node ref="R49" pin="1"/>
+      <node ref="P7" pin="3"/>
+    </net>
+    <net code="105" name="Net-(C11-Pad2)">
+      <node ref="R49" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="P7" pin="4"/>
+    </net>
+    <net code="106" name="Net-(P8-Pad1)">
+      <node ref="P8" pin="1"/>
+      <node ref="R71" pin="1"/>
+    </net>
+    <net code="107" name="Net-(C7-Pad1)">
+      <node ref="U1" pin="4"/>
+      <node ref="C7" pin="1"/>
+      <node ref="RV1" pin="2"/>
+    </net>
+    <net code="108" name="Net-(P7-Pad1)">
+      <node ref="P7" pin="1"/>
+      <node ref="R92" pin="1"/>
+    </net>
+    <net code="109" name="Net-(P5-Pad26)">
+      <node ref="P5" pin="26"/>
+    </net>
+    <net code="110" name="Net-(U3-Pad2)">
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="111" name="Net-(U3-Pad7)">
+      <node ref="U3" pin="7"/>
+    </net>
+    <net code="112" name="Net-(U3-Pad12)">
+      <node ref="U3" pin="12"/>
+    </net>
+    <net code="113" name="/PJ1">
+      <node ref="P5" pin="19"/>
+      <node ref="P6" pin="2"/>
+    </net>
+    <net code="114" name="/PT1">
+      <node ref="R51" pin="2"/>
+      <node ref="P5" pin="10"/>
+    </net>
+    <net code="115" name="/PK0">
+      <node ref="R73" pin="1"/>
+      <node ref="P5" pin="8"/>
+    </net>
+    <net code="116" name="/PK2">
+      <node ref="P5" pin="6"/>
+      <node ref="R94" pin="1"/>
+    </net>
+    <net code="117" name="/PP0">
+      <node ref="P5" pin="4"/>
+      <node ref="P8" pin="2"/>
+    </net>
+    <net code="118" name="/PP2">
+      <node ref="P5" pin="2"/>
+      <node ref="P7" pin="2"/>
+    </net>
+    <net code="119" name="/PB4">
+      <node ref="P5" pin="25"/>
+      <node ref="R35" pin="1"/>
+    </net>
+    <net code="120" name="/PB2">
+      <node ref="R17" pin="1"/>
+      <node ref="P5" pin="23"/>
+    </net>
+    <net code="121" name="/PB0">
+      <node ref="P5" pin="21"/>
+      <node ref="R33" pin="1"/>
+    </net>
+    <net code="122" name="/PT3">
+      <node ref="R52" pin="2"/>
+      <node ref="P5" pin="12"/>
+    </net>
+    <net code="123" name="/PK5">
+      <node ref="R15" pin="1"/>
+      <node ref="P5" pin="17"/>
+    </net>
+    <net code="124" name="/PT6">
+      <node ref="SW2" pin="1"/>
+      <node ref="R44" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="P5" pin="15"/>
+    </net>
+    <net code="125" name="/PT4">
+      <node ref="D11" pin="1"/>
+      <node ref="P5" pin="13"/>
+      <node ref="R40" pin="1"/>
+      <node ref="SW1" pin="1"/>
+    </net>
+    <net code="126" name="/PT0">
+      <node ref="R1" pin="1"/>
+      <node ref="P5" pin="9"/>
+    </net>
+    <net code="127" name="/PK1">
+      <node ref="P5" pin="7"/>
+      <node ref="R29" pin="1"/>
+    </net>
+    <net code="128" name="/PK3">
+      <node ref="R5" pin="1"/>
+      <node ref="P5" pin="5"/>
+    </net>
+    <net code="129" name="/PP1">
+      <node ref="P5" pin="3"/>
+      <node ref="P4" pin="2"/>
+    </net>
+    <net code="130" name="/PP3">
+      <node ref="P3" pin="2"/>
+      <node ref="P5" pin="1"/>
+    </net>
+    <net code="131" name="/PB3">
+      <node ref="R59" pin="1"/>
+      <node ref="P5" pin="24"/>
+    </net>
+    <net code="132" name="/PB1">
+      <node ref="R76" pin="1"/>
+      <node ref="P5" pin="22"/>
+    </net>
+    <net code="133" name="/PJ0">
+      <node ref="P5" pin="20"/>
+      <node ref="P6" pin="1"/>
+    </net>
+    <net code="134" name="/PK4">
+      <node ref="R57" pin="1"/>
+      <node ref="P5" pin="18"/>
+    </net>
+    <net code="135" name="/PT7">
+      <node ref="D18" pin="1"/>
+      <node ref="R38" pin="2"/>
+      <node ref="R54" pin="1"/>
+      <node ref="P5" pin="16"/>
+      <node ref="Q21" pin="1"/>
+    </net>
+    <net code="136" name="/PT5">
+      <node ref="P5" pin="14"/>
+      <node ref="R37" pin="2"/>
+      <node ref="R53" pin="1"/>
+      <node ref="Q20" pin="1"/>
+      <node ref="D17" pin="1"/>
+    </net>
+    <net code="137" name="Net-(IC2-Pad6)">
+      <node ref="IC2" pin="6"/>
+    </net>
+    <net code="138" name="Net-(IC2-Pad3)">
+      <node ref="IC2" pin="3"/>
+    </net>
+    <net code="139" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6"/>
+    </net>
+    <net code="140" name="Net-(IC1-Pad3)">
+      <node ref="IC1" pin="3"/>
+    </net>
+  </nets>
+</export>
